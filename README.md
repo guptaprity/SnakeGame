@@ -1,5 +1,5 @@
 <b>Technology Used <b>
 
-HTMl
-CSS
-JavaScript
+.HTMl
+.CSS
+.JavaScript
